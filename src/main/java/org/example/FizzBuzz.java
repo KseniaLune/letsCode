@@ -1,18 +1,31 @@
 package org.example;
 
-public class FizzBuzzTest {
-    public byte[] fizzbuzztest(int value) {
+import java.util.ArrayList;
+import java.util.List;
 
+public class FizzBuzz {
 
+    public static void main(String[] args) {
+        System.out.println(fizzbuzztest(15));
+    }
 
-        if (value % 3 == 0&&value % 5 != 0) {
-            return "Fizz".getBytes();
-        } else if (value % 5 == 0&&value % 3 != 0) {
-            return "Buzz".getBytes();
-        } else if (value % 3 == 0 && value % 5 == 0) {
-            return "FizzBuzz".getBytes();
-        } else {
-            throw new IllegalArgumentException();
+    public static List<String> fizzbuzztest(int value) {
+        List<String> result = new ArrayList<>();
+        for (int i = 1; i < 16; i++) {
+            if (i % 3 == 0 && i % 5 != 0) {
+                result.add("Fizz");
+                continue;
+            } else if (i % 5 == 0 && i % 3 != 0) {
+                result.add("Buzz");
+                continue;
+            } else if (i % 3 == 0 && i % 5 == 0) {
+                result.add("FizzBuzz");
+                continue;
+            } else {
+                result.add(String.valueOf(i));
+            }
+
         }
+        return result;
     }
 }
