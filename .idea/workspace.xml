@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ConvertSortedArrayToBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MaximumDepthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PascalsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/zaur/AboutThreads.java" afterDir="false" />
+    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BestTimetoBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/KthSmallestElementInABST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/zaur/ThreadPools.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="3-binary-tree-three-quest" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,22 +74,9 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConvertSortedArrayToBinarySearchTree">
-    <configuration name="AboutThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.zaur.AboutThreads" />
-      <module name="letsCode.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.zaur.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinaryTreeInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BinaryTreeInorderTraversal" />
+  <component name="RunManager" selected="Application.BestTimetoBuyAndSellStock">
+    <configuration name="BestTimetoBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BestTimetoBuyAndSellStock" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertSortedArrayToBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ConvertSortedArrayToBinarySearchTree" />
+    <configuration name="KthSmallestElementInABST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.KthSmallestElementInABST" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumDepthOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.MaximumDepthOfBinaryTree" />
+    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.MajorityElement" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -140,13 +127,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadPools" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.zaur.ThreadPools" />
+      <module name="letsCode.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.zaur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConvertSortedArrayToBinarySearchTree" />
-        <item itemvalue="Application.MaximumDepthOfBinaryTree" />
-        <item itemvalue="Application.AboutThreads" />
+        <item itemvalue="Application.BestTimetoBuyAndSellStock" />
+        <item itemvalue="Application.ThreadPools" />
+        <item itemvalue="Application.MajorityElement" />
+        <item itemvalue="Application.KthSmallestElementInABST" />
         <item itemvalue="Application.SymmetricTree" />
-        <item itemvalue="Application.BinaryTreeInorderTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -161,17 +161,8 @@
       <workItem from="1686755027147" duration="5591000" />
       <workItem from="1686919525515" duration="2399000" />
       <workItem from="1687168490734" duration="598000" />
-      <workItem from="1687172509988" duration="32820000" />
-      <workItem from="1687781358542" duration="9124000" />
+      <workItem from="1687172509988" duration="32129000" />
     </task>
-    <task id="LOCAL-00001" summary="done">
-      <created>1687772461280</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1687772461280</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,10 +178,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
@@ -239,19 +226,29 @@
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/ConvertSortedArrayToBinarySearchTree.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="37" />
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/SymmetricTree.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/ConvertSortedArrayToBinarySearchTree.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/ConvertSortedArrayToBinarySearchTree.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/SymmetricTree.java</url>
           <line>27</line>
-          <option name="timeStamp" value="42" />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/SymmetricTree.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/SymmetricTree.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/BestTimetoBuyAndSellStock.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Sqrtx.java</url>
