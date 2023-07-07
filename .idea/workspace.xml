@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FindPivotIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RunningSumOfFirstdArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IsomorphicStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ReverseLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="8-new-three-quest" />
+        <entry key="$PROJECT_DIR$" value="10-new-five-quest" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,7 +73,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindPivotIndex">
+  <component name="RunManager" selected="Application.ReverseLinkedList">
     <configuration name="FindPivotIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.FindPivotIndex" />
       <module name="letsCode.main" />
@@ -86,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.GroupAnagrams" />
+    <configuration name="IsSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.IsSubsequence" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.RemoveDuplicatesFromSortedArray" />
+    <configuration name="IsomorphicStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.IsomorphicStrings" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedArrayII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.RemoveDuplicatesFromSortedArrayII" />
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ReverseLinkedList" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseLinkedList" />
+        <item itemvalue="Application.IsSubsequence" />
+        <item itemvalue="Application.IsomorphicStrings" />
         <item itemvalue="Application.FindPivotIndex" />
         <item itemvalue="Application.RunningSumOfFirstdArray" />
-        <item itemvalue="Application.GroupAnagrams" />
-        <item itemvalue="Application.RemoveDuplicatesFromSortedArrayII" />
-        <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +162,7 @@
       <workItem from="1687168490734" duration="598000" />
       <workItem from="1687172509988" duration="32129000" />
       <workItem from="1688041118848" duration="2802000" />
-      <workItem from="1688372602890" duration="3485000" />
+      <workItem from="1688372602890" duration="8383000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1687942598344</created>
@@ -184,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688130845910</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="done">
+      <created>1688376245590</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688376245590</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,31 +223,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/RomanToInteger.java</url>
           <line>12</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/MergeTwoSortedLists.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/MergeTwoSortedLists.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/MergeTwoSortedLists.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/MergeTwoSortedLists.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/MergeTwoSortedLists.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/RemoveDuplicatesFromSortedArray.java</url>
