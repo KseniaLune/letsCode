@@ -1,0 +1,12 @@
+old text old text old text
+old text old text old text
+old text old text old text
+old text old text old text
+text
+old text old text old text
+old text old text old text
+old text old text old text
+old text old text old text
+
+New Text from class ChannelBufferWriting for
+illustrating writing function
