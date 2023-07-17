@@ -5,10 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/zaur/ChannelBufferReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/zaur/ChannelBufferWriting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/MaxConsecutiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/SquaresOfASortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BestTimetoBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/BestTimetoBuyAndSellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BinaryTreeInorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/BinaryTreeInorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BinaryTreeLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/ClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ContainsDuplicateII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/ContainsDuplicateII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConvertSortedArrayToBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/ConvertSortedArrayToBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FindCommonCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/FindCommonCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FindPivotIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/FindPivotIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FindTheIndexOfTheFirstOccurrenceInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/FindTheIndexOfTheFirstOccurrenceInAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/GroupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HappyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/HappyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IsSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/IsSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IsomorphicStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/IsomorphicStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/KthSmallestElementInABST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/KthSmallestElementInABST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LowestCommonAncestorBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/LowestCommonAncestorBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MaximumDepthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/MaximumDepthOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/MergeSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/MergeTwoSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MiddleoftheLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/MiddleoftheLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NaryTreePreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/NaryTreePreorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/PascalsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/PlusOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RansomNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/RansomNote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RemoveDuplicatesFromSortedArrayII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/RemoveDuplicatesFromSortedArrayII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/RomanToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RunningSumOfFirstdArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/RunningSumOfFirstdArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Sqrtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/Sqrtx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SummaryRanges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/SummaryRanges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/SymmetricTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/ValidAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/ValidPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/ValidParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ValidateBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/ValidateBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WordPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/WordPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +73,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="21-day-7-8" />
+        <entry key="$PROJECT_DIR$" value="29-explore-array-introduction" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,20 +121,7 @@
       <recent name="org.example.zaur" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChannelBufferWriting">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BinarySearch" />
-      <module name="letsCode.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SquaresOfASortedArray">
     <configuration name="ChannelBufferReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.zaur.ChannelBufferReading" />
       <module name="letsCode.main" />
@@ -119,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.LongestPalindrome" />
+    <configuration name="FindNumbersWithEvenNumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.FindNumbersWithEvenNumberOfDigits" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.explore.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +161,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NaryTreePreorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.NaryTreePreorderTraversal" />
+    <configuration name="MaxConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.MaxConsecutiveOnes" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.explore.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquaresOfASortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.SquaresOfASortedArray" />
+      <module name="letsCode.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.explore.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SquaresOfASortedArray" />
+        <item itemvalue="Application.FindNumbersWithEvenNumberOfDigits" />
+        <item itemvalue="Application.MaxConsecutiveOnes" />
         <item itemvalue="Application.ChannelBufferWriting" />
         <item itemvalue="Application.ChannelBufferReading" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.NaryTreePreorderTraversal" />
-        <item itemvalue="Application.LongestPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -247,44 +289,44 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/RomanToInteger.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/quest/RomanToInteger.java</url>
           <line>12</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/RemoveDuplicatesFromSortedArray.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/quest/RemoveDuplicatesFromSortedArray.java</url>
           <line>33</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/RemoveDuplicatesFromSortedArray.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/quest/RemoveDuplicatesFromSortedArray.java</url>
           <line>35</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/SymmetricTree.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/quest/SymmetricTree.java</url>
           <line>23</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/SymmetricTree.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/quest/SymmetricTree.java</url>
           <line>27</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/SymmetricTree.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/quest/SymmetricTree.java</url>
           <line>31</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/SymmetricTree.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/quest/SymmetricTree.java</url>
           <line>35</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Sqrtx.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/quest/Sqrtx.java</url>
           <line>3</line>
-          <properties class="org.example.Sqrtx" method="main">
+          <properties class="org.example.quest.Sqrtx" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
