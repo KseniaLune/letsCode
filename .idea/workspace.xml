@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="explore deleting">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/CheckIfNandItsDoubleExist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/ValidMountainArray.java" afterDir="false" />
+    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="explore searching">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/ReplaceElementswithGreatestElementonRightSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/SortArrayByParity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/explore/array/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="33-3-explore-array-deleting" />
+        <entry key="$PROJECT_DIR$" value="35-explore-search-in-an-array" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,9 +80,9 @@
       <recent name="org.example.zaur" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidMountainArray">
-    <configuration name="CheckIfNandItsDoubleExist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.CheckIfNandItsDoubleExist" />
+  <component name="RunManager" selected="Application.SortArrayByParity">
+    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.MoveZeroes" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.DuplicateZeros" />
+    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.RemoveDuplicatesFromSortedArray" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.MergeSortedArray" />
+    <configuration name="ReplaceElementswithGreatestElementonRightSide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.ReplaceElementswithGreatestElementonRightSide" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.RemoveElement" />
+    <configuration name="SortArrayByParity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.SortArrayByParity" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortArrayByParity" />
+        <item itemvalue="Application.MoveZeroes" />
+        <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
+        <item itemvalue="Application.ReplaceElementswithGreatestElementonRightSide" />
         <item itemvalue="Application.ValidMountainArray" />
-        <item itemvalue="Application.CheckIfNandItsDoubleExist" />
-        <item itemvalue="Application.RemoveElement" />
-        <item itemvalue="Application.MergeSortedArray" />
-        <item itemvalue="Application.DuplicateZeros" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +171,8 @@
       <workItem from="1688041118848" duration="2802000" />
       <workItem from="1688372602890" duration="13260000" />
       <workItem from="1689936238726" duration="3543000" />
-      <workItem from="1689950614555" duration="4493000" />
+      <workItem from="1689950614555" duration="5515000" />
+      <workItem from="1690209658622" duration="3152000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1687942598344</created>
@@ -249,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689940309492</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="explore searching">
+      <created>1690198181744</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1690198181744</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +279,8 @@
     <MESSAGE value="done" />
     <MESSAGE value="clean up" />
     <MESSAGE value="explore deleting" />
-    <option name="LAST_COMMIT_MESSAGE" value="explore deleting" />
+    <MESSAGE value="explore searching" />
+    <option name="LAST_COMMIT_MESSAGE" value="explore searching" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
