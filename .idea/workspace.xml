@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="explore in-place operations">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/FindAllNumbersDisappearedinanArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/HeightChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/ThirdMaximumNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="explore array conclusion">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/medium/IntegerToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/medium/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/medium/ReverseWordsinaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/medium/RotateArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/explore/array/SquaresOfASortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/SquaresOfASortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/explore/array/FindAllNumbersDisappearedinanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/FindAllNumbersDisappearedinanArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +33,27 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="37-explore-in-place-array-operations" />
+        <entry key="$PROJECT_DIR$" value="41-explore-array-and-strings" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KseniaLune"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1bfecceb-9540-44f8-b03e-53ab2ed9acf9" />
+        <option name="url" value="https://github.com/KseniaLune/letsCode.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/explore/array/FindAllNumbersDisappearedinanArray.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -62,7 +79,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "39-explore-array-conclusion",
+    "git-widget-placeholder": "42-resolve-some-medium-problems",
     "go.import.settings.migrated": "true",
     "last_opened_file_path": "/Users/andrew/IdeaProjects/letsCode",
     "node.js.detected.package.eslint": "true",
@@ -87,7 +104,7 @@
       <recent name="org.example.zaur" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxConsecutiveOnesII">
+  <component name="RunManager" selected="Application.ReverseWordsinaString">
     <configuration name="FindAllNumbersDisappearedinanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.explore.array.FindAllNumbersDisappearedinanArray" />
       <module name="letsCode.main" />
@@ -101,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeightChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.HeightChecker" />
+    <configuration name="JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.quest.medium.JumpGame" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.explore.array.*" />
+          <option name="PATTERN" value="org.example.quest.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +131,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxConsecutiveOnesII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.MaxConsecutiveOnesII" />
+    <configuration name="ReverseWordsinaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.quest.medium.ReverseWordsinaString" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.explore.array.*" />
+          <option name="PATTERN" value="org.example.quest.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.quest.medium.RotateArray" />
+      <module name="letsCode.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.quest.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,19 +159,6 @@
     </configuration>
     <configuration name="SquaresOfASortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.explore.array.SquaresOfASortedArray" />
-      <module name="letsCode.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.explore.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThirdMaximumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.ThirdMaximumNumber" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -174,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxConsecutiveOnesII" />
+        <item itemvalue="Application.ReverseWordsinaString" />
+        <item itemvalue="Application.JumpGame" />
+        <item itemvalue="Application.RotateArray" />
         <item itemvalue="Application.SquaresOfASortedArray" />
         <item itemvalue="Application.FindAllNumbersDisappearedinanArray" />
-        <item itemvalue="Application.ThirdMaximumNumber" />
-        <item itemvalue="Application.HeightChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +217,7 @@
       <workItem from="1689950614555" duration="5515000" />
       <workItem from="1690209658622" duration="4550000" />
       <workItem from="1690407615153" duration="598000" />
-      <workItem from="1690451733391" duration="6850000" />
+      <workItem from="1690451733391" duration="13468000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1687942598344</created>
@@ -293,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690283585231</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="explore array conclusion">
+      <option name="closed" value="true" />
+      <created>1690459581604</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1690459581604</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +341,8 @@
     <MESSAGE value="explore deleting" />
     <MESSAGE value="explore searching" />
     <MESSAGE value="explore in-place operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="explore in-place operations" />
+    <MESSAGE value="explore array conclusion" />
+    <option name="LAST_COMMIT_MESSAGE" value="explore array conclusion" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
