@@ -8,14 +8,25 @@ public class SquaresOfASortedArray {
         int[] nums = {
             -4, -1, 0, 3, 10
         };
-        System.out.println(Arrays.toString(sortedSquares(nums)));
+        System.out.println(Arrays.toString(sortedSquaresMySol(nums)));
+    }
+
+    public static int[] sortedSquaresMySol(int[] nums) {
+
+        for (int i = 0; i < nums.length; i++) {
+            nums[i] *= nums[i];
+        }
+        System.out.println(Arrays.toString(nums));
+        Arrays.sort(nums);
+        return nums;
     }
 
     public static int[] sortedSquares(int[] nums) {
         //result array
         int[] res = new int[nums.length];
         //pointers for left and right
-        int lo = 0; int hi = nums.length - 1;
+        int lo = 0;
+        int hi = nums.length - 1;
         //iterate from n to 0
         for (int i = nums.length - 1; i >= 0; i--) {
             //check if abs left is less than or equal to abs right
@@ -31,7 +42,6 @@ public class SquaresOfASortedArray {
                 hi--;
             }
         }
-        //result
-return res;
+        return res;
     }
 }

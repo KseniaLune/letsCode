@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="explore searching">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/MoveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/ReplaceElementswithGreatestElementonRightSide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/SortArrayByParity.java" afterDir="false" />
+    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="explore in-place operations">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/FindAllNumbersDisappearedinanArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/HeightChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/ThirdMaximumNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/explore/array/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/explore/array/SquaresOfASortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/SquaresOfASortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="35-explore-search-in-an-array" />
+        <entry key="$PROJECT_DIR$" value="37-explore-in-place-array-operations" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,32 +41,38 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2RCXQr2aEsbNHYOtn6URix7vRjM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/andrew/IdeaProjects/letsCode&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "39-explore-array-conclusion",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/Users/andrew/IdeaProjects/letsCode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -80,9 +87,9 @@
       <recent name="org.example.zaur" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortArrayByParity">
-    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.MoveZeroes" />
+  <component name="RunManager" selected="Application.MaxConsecutiveOnesII">
+    <configuration name="FindAllNumbersDisappearedinanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.FindAllNumbersDisappearedinanArray" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.RemoveDuplicatesFromSortedArray" />
+    <configuration name="HeightChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.HeightChecker" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplaceElementswithGreatestElementonRightSide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.ReplaceElementswithGreatestElementonRightSide" />
+    <configuration name="MaxConsecutiveOnesII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.MaxConsecutiveOnesII" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArrayByParity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.SortArrayByParity" />
+    <configuration name="SquaresOfASortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.SquaresOfASortedArray" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.ValidMountainArray" />
+    <configuration name="ThirdMaximumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.ThirdMaximumNumber" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -145,14 +152,33 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="letsCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="letsCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortArrayByParity" />
-        <item itemvalue="Application.MoveZeroes" />
-        <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
-        <item itemvalue="Application.ReplaceElementswithGreatestElementonRightSide" />
-        <item itemvalue="Application.ValidMountainArray" />
+        <item itemvalue="Application.MaxConsecutiveOnesII" />
+        <item itemvalue="Application.SquaresOfASortedArray" />
+        <item itemvalue="Application.FindAllNumbersDisappearedinanArray" />
+        <item itemvalue="Application.ThirdMaximumNumber" />
+        <item itemvalue="Application.HeightChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +198,9 @@
       <workItem from="1688372602890" duration="13260000" />
       <workItem from="1689936238726" duration="3543000" />
       <workItem from="1689950614555" duration="5515000" />
-      <workItem from="1690209658622" duration="3152000" />
+      <workItem from="1690209658622" duration="4550000" />
+      <workItem from="1690407615153" duration="598000" />
+      <workItem from="1690451733391" duration="6850000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1687942598344</created>
@@ -258,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690198181744</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="explore in-place operations">
+      <created>1690283585231</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690283585231</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +315,8 @@
     <MESSAGE value="clean up" />
     <MESSAGE value="explore deleting" />
     <MESSAGE value="explore searching" />
-    <option name="LAST_COMMIT_MESSAGE" value="explore searching" />
+    <MESSAGE value="explore in-place operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="explore in-place operations" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
@@ -323,10 +359,15 @@
           <line>35</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/explore/array/ThirdMaximumNumber.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/quest/easy/Sqrtx.java</url>
           <line>3</line>
-          <properties class="org.example.quest.Sqrtx" method="main">
+          <properties class="org.example.quest.easy.Sqrtx" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
