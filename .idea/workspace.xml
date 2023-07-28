@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="explore array conclusion">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/medium/IntegerToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/medium/JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/medium/ReverseWordsinaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/medium/RotateArray.java" afterDir="false" />
+    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="resolved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/explore/array/FindAllNumbersDisappearedinanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/FindAllNumbersDisappearedinanArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +212,7 @@
       <workItem from="1689950614555" duration="5515000" />
       <workItem from="1690209658622" duration="4550000" />
       <workItem from="1690407615153" duration="598000" />
-      <workItem from="1690451733391" duration="13468000" />
+      <workItem from="1690451733391" duration="14182000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1687942598344</created>
@@ -318,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690459581604</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="resolved">
+      <option name="closed" value="true" />
+      <created>1690472322809</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1690472322809</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,7 +345,8 @@
     <MESSAGE value="explore searching" />
     <MESSAGE value="explore in-place operations" />
     <MESSAGE value="explore array conclusion" />
-    <option name="LAST_COMMIT_MESSAGE" value="explore array conclusion" />
+    <MESSAGE value="resolved" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolved" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
