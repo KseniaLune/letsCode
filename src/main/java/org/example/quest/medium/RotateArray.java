@@ -15,9 +15,8 @@ public class RotateArray {
         if (k == 0) return;
         if (nums.length < 2) return;
         if (k == nums.length) return;
-        while (k> nums.length){
-            k-=nums.length;
-        }
+
+        k = k % nums.length;
 
         List<Integer> list = new ArrayList<>();
         int n = nums.length - k;
