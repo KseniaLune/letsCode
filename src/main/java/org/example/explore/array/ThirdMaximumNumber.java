@@ -25,7 +25,5 @@ public class ThirdMaximumNumber {
         }
         return nums[nums.length-1];
 
-//        int one = 0, two = 0, three = 0;
-
     }
 }
