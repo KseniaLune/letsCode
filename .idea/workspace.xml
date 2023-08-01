@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="resolved">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/MyLinkedList.java" afterDir="false" />
+    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="part one">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/IntersectionofTwoLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/LinkedListCycleII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/RemoveNthNodeFromEndofList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/explore/array/ThirdMaximumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/array/ThirdMaximumNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/quest/easy/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/easy/MergeSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/quest/medium/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/medium/RotateArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,13 +103,13 @@
       <recent name="org.example.zaur" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Quest">
-    <configuration name="FindAllNumbersDisappearedinanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.FindAllNumbersDisappearedinanArray" />
+  <component name="RunManager" selected="Application.RemoveNthNodeFromEndofList">
+    <configuration name="IntersectionofTwoLinkedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.linkedList.IntersectionofTwoLinkedLists" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.explore.array.*" />
+          <option name="PATTERN" value="org.example.explore.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquaresOfASortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.SquaresOfASortedArray" />
+    <configuration name="RemoveNthNodeFromEndofList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.linkedList.RemoveNthNodeFromEndofList" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.explore.array.*" />
+          <option name="PATTERN" value="org.example.explore.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,8 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdMaximumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.ThirdMaximumNumber" />
+    <configuration name="SquaresOfASortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.SquaresOfASortedArray" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -190,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveNthNodeFromEndofList" />
+        <item itemvalue="Application.IntersectionofTwoLinkedLists" />
         <item itemvalue="Application.Quest" />
         <item itemvalue="Application.MaxConsecutiveOnesII" />
         <item itemvalue="Application.SquaresOfASortedArray" />
-        <item itemvalue="Application.FindAllNumbersDisappearedinanArray" />
-        <item itemvalue="Application.ThirdMaximumNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +218,7 @@
       <workItem from="1690407615153" duration="598000" />
       <workItem from="1690451733391" duration="6850000" />
       <workItem from="1690662493404" duration="3526000" />
-      <workItem from="1690795605564" duration="7779000" />
+      <workItem from="1690795605564" duration="15169000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1687942598344</created>
@@ -319,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690547023855</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="part one">
+      <option name="closed" value="true" />
+      <created>1690806439309</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1690806439309</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,7 +351,8 @@
     <MESSAGE value="explore searching" />
     <MESSAGE value="explore in-place operations" />
     <MESSAGE value="resolved" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolved" />
+    <MESSAGE value="part one" />
+    <option name="LAST_COMMIT_MESSAGE" value="part one" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
@@ -385,6 +394,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/quest/easy/SymmetricTree.java</url>
           <line>35</line>
           <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/RemoveNthNodeFromEndofList.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/RemoveNthNodeFromEndofList.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/RemoveNthNodeFromEndofList.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/quest/easy/Sqrtx.java</url>
