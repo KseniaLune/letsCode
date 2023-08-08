@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="part one">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/IntersectionofTwoLinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/LinkedListCycleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/RemoveNthNodeFromEndofList.java" afterDir="false" />
+    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/OddEvenLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/RemoveLinkedListElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/ReverseLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="41-explore-array-and-strings" />
+        <entry key="$PROJECT_DIR$" value="45-explore-linked-list-5-problems" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -78,7 +77,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "45-explore-linked-list-5-problems",
+    "git-widget-placeholder": "48-explore-linkedlist-next-step",
     "go.import.settings.migrated": "true",
     "last_opened_file_path": "/Users/andrew/IdeaProjects/letsCode",
     "node.js.detected.package.eslint": "true",
@@ -103,7 +102,7 @@
       <recent name="org.example.zaur" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveNthNodeFromEndofList">
+  <component name="RunManager" selected="Application.OddEvenLinkedList">
     <configuration name="IntersectionofTwoLinkedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.explore.linkedList.IntersectionofTwoLinkedLists" />
       <module name="letsCode.main" />
@@ -117,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxConsecutiveOnesII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.MaxConsecutiveOnesII" />
+    <configuration name="OddEvenLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.linkedList.OddEvenLinkedList" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.explore.array.*" />
+          <option name="PATTERN" value="org.example.explore.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Quest" />
+    <configuration name="RemoveLinkedListElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.linkedList.RemoveLinkedListElements" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.explore.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquaresOfASortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.array.SquaresOfASortedArray" />
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.explore.linkedList.ReverseLinkedList" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.explore.array.*" />
+          <option name="PATTERN" value="org.example.explore.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddEvenLinkedList" />
+        <item itemvalue="Application.RemoveLinkedListElements" />
+        <item itemvalue="Application.ReverseLinkedList" />
         <item itemvalue="Application.RemoveNthNodeFromEndofList" />
         <item itemvalue="Application.IntersectionofTwoLinkedLists" />
-        <item itemvalue="Application.Quest" />
-        <item itemvalue="Application.MaxConsecutiveOnesII" />
-        <item itemvalue="Application.SquaresOfASortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +217,8 @@
       <workItem from="1690407615153" duration="598000" />
       <workItem from="1690451733391" duration="6850000" />
       <workItem from="1690662493404" duration="3526000" />
-      <workItem from="1690795605564" duration="15169000" />
+      <workItem from="1690795605564" duration="16517000" />
+      <workItem from="1690968743419" duration="9111000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1687942598344</created>
@@ -327,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690806439309</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="done">
+      <option name="closed" value="true" />
+      <created>1690886590045</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1690886590045</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,14 +353,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="done" />
     <MESSAGE value="clean up" />
     <MESSAGE value="explore deleting" />
     <MESSAGE value="explore searching" />
     <MESSAGE value="explore in-place operations" />
     <MESSAGE value="resolved" />
     <MESSAGE value="part one" />
-    <option name="LAST_COMMIT_MESSAGE" value="part one" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
@@ -396,19 +404,29 @@
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/RemoveNthNodeFromEndofList.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="59" />
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/RemoveLinkedListElements.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/RemoveNthNodeFromEndofList.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="60" />
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/OddEvenLinkedList.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/RemoveNthNodeFromEndofList.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/OddEvenLinkedList.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/OddEvenLinkedList.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/explore/linkedList/OddEvenLinkedList.java</url>
           <line>33</line>
-          <option name="timeStamp" value="62" />
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/quest/easy/Sqrtx.java</url>
