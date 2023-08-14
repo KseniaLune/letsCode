@@ -1,6 +1,6 @@
 # letsCode
-Solved problems from the leetcode
-Sometimes the problems are repetitive, sometimes they contain multiple solutions
+Solved problems from the leetcode /n
+Sometimes the problems are repetitive, sometimes they contain multiple solutions /n
 The solutions are not always optimal
 Sometimes the number of cycles can go beyond what is reasonable
 But it works
