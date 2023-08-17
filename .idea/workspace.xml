@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="done" />
+    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="done, but only two qs">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/top150/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/top150/NumberofIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/top150/RemoveDuplicatesfromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/top150/RemoveDuplicatesfromSortedArrayII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/top150/RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="48-explore-linkedlist-next-step" />
+        <entry key="$PROJECT_DIR$" value="50-leetcode75-three-qs" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,28 +68,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "50-leetcode75-three-qs",
-    "go.import.settings.migrated": "true",
-    "last_opened_file_path": "/Users/andrew/IdeaProjects/letsCode",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;54-top-150-first-five&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/andrew/IdeaProjects/letsCode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -97,13 +104,13 @@
       <recent name="org.example.zaur" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CanPlaceFlowers">
-    <configuration name="CanPlaceFlowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.leetCode75.easy.CanPlaceFlowers" />
+  <component name="RunManager" selected="Application.NumberofIslands">
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.top150.MergeSortedArray" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.leetCode75.easy.*" />
+          <option name="PATTERN" value="org.example.top150.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KidsWiththeGreatestNumberofCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.leetCode75.easy.KidsWiththeGreatestNumberofCandies" />
+    <configuration name="NumberofIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.top150.NumberofIslands" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.leetCode75.easy.*" />
+          <option name="PATTERN" value="org.example.top150.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeStringsAlternately" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.leetCode75.easy.MergeStringsAlternately" />
+    <configuration name="ProductofArrayExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.leetCode75.medium.ProductofArrayExceptSelf" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.leetCode75.easy.*" />
+          <option name="PATTERN" value="org.example.leetCode75.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddEvenLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.linkedList.OddEvenLinkedList" />
+    <configuration name="RemoveDuplicatesfromSortedArrayII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.top150.RemoveDuplicatesfromSortedArrayII" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.explore.linkedList.*" />
+          <option name="PATTERN" value="org.example.top150.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveLinkedListElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.explore.linkedList.RemoveLinkedListElements" />
+    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.top150.RemoveElement" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.explore.linkedList.*" />
+          <option name="PATTERN" value="org.example.top150.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CanPlaceFlowers" />
-        <item itemvalue="Application.KidsWiththeGreatestNumberofCandies" />
-        <item itemvalue="Application.MergeStringsAlternately" />
-        <item itemvalue="Application.OddEvenLinkedList" />
-        <item itemvalue="Application.RemoveLinkedListElements" />
+        <item itemvalue="Application.NumberofIslands" />
+        <item itemvalue="Application.RemoveDuplicatesfromSortedArrayII" />
+        <item itemvalue="Application.RemoveElement" />
+        <item itemvalue="Application.MergeSortedArray" />
+        <item itemvalue="Application.ProductofArrayExceptSelf" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +223,9 @@
       <workItem from="1690968743419" duration="9111000" />
       <workItem from="1691400272628" duration="1223000" />
       <workItem from="1691582949662" duration="6440000" />
+      <workItem from="1691653673144" duration="5757000" />
+      <workItem from="1691671487853" duration="4655000" />
+      <workItem from="1691686530458" duration="8665000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1687942598344</created>
@@ -348,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691590354659</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="done, but only two qs">
+      <option name="closed" value="true" />
+      <created>1691659701862</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1691659701862</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,7 +391,8 @@
     <MESSAGE value="resolved" />
     <MESSAGE value="part one" />
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="done, but only two qs" />
+    <option name="LAST_COMMIT_MESSAGE" value="done, but only two qs" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
