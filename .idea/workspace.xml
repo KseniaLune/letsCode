@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="Two done but possibleBi">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Quest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/QuestSecond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/medium/PossibleBipartition.java" afterDir="false" />
+    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="Done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/easy/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/medium/CountSubIslands.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,9 +105,48 @@
       <recent name="org.example.zaur" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PossibleBipartition">
-    <configuration name="FruitIntoBaskets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.quest.medium.FruitIntoBaskets" />
+  <component name="RunManager" selected="Application.CountSubIslands">
+    <configuration name="CountSubIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.quest.medium.CountSubIslands" />
+      <module name="letsCode.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.quest.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FloodFill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.quest.easy.FloodFill" />
+      <module name="letsCode.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.quest.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IslandPerimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.quest.easy.IslandPerimeter" />
+      <module name="letsCode.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.quest.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxAreaofIsland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.quest.medium.MaxAreaofIsland" />
       <module name="letsCode.main" />
       <extension name="coverage">
         <pattern>
@@ -126,45 +164,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.quest.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Quest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Quest" />
-      <module name="letsCode.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.QuestSecond" />
-      <module name="letsCode.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubstringsofSizeThreewithDistinctCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.quest.easy.SubstringsofSizeThreewithDistinctCharacters" />
-      <module name="letsCode.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.quest.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuestSecond" />
-        <item itemvalue="Application.Quest" />
+        <item itemvalue="Application.CountSubIslands" />
         <item itemvalue="Application.PossibleBipartition" />
-        <item itemvalue="Application.FruitIntoBaskets" />
-        <item itemvalue="Application.SubstringsofSizeThreewithDistinctCharacters" />
+        <item itemvalue="Application.MaxAreaofIsland" />
+        <item itemvalue="Application.FloodFill" />
+        <item itemvalue="Application.IslandPerimeter" />
       </list>
     </recent_temporary>
   </component>
@@ -233,6 +232,10 @@
       <workItem from="1692630055943" duration="2801000" />
       <workItem from="1692707227045" duration="4024000" />
       <workItem from="1692877680509" duration="614000" />
+      <workItem from="1692960879621" duration="10267000" />
+      <workItem from="1693141887901" duration="1360000" />
+      <workItem from="1693303395349" duration="646000" />
+      <workItem from="1693388647183" duration="828000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1687942598344</created>
@@ -381,7 +384,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692620773291</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Done">
+      <option name="closed" value="true" />
+      <created>1692969052803</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1692969052803</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,7 +418,8 @@
     <MESSAGE value="part one" />
     <MESSAGE value="done, but only two qs" />
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
