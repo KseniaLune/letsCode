@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="Done" />
+    <list default="true" id="2d3398e9-dc29-41f1-9dc5-7d925bdc059f" name="Changes" comment="new five sql problems">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/quest/medium/KthSmallestElementInABST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/quest/medium/KthSmallestElementInABST.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="60-new-three-qs" />
+        <entry key="$PROJECT_DIR$" value="62-new-three-problems" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,7 +74,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "62-new-three-problems",
+    "git-widget-placeholder": "64-sql-basic-joins",
     "go.import.settings.migrated": "true",
     "last_opened_file_path": "/Users/andrew/IdeaProjects/letsCode",
     "node.js.detected.package.eslint": "true",
@@ -233,6 +235,7 @@
       <workItem from="1693303395349" duration="646000" />
       <workItem from="1693388647183" duration="828000" />
       <workItem from="1693400362194" duration="3519000" />
+      <workItem from="1693475147928" duration="6392000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1687942598344</created>
@@ -397,7 +400,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693403237952</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="new five sql problems">
+      <option name="closed" value="true" />
+      <created>1693478321432</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1693478321432</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,7 +435,8 @@
     <MESSAGE value="done, but only two qs" />
     <MESSAGE value="done" />
     <MESSAGE value="Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done" />
+    <MESSAGE value="new five sql problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="new five sql problems" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
